@@ -1,0 +1,24 @@
+{
+  "name": "cat-utility",
+  "version": "1.0.0",
+  "description": "A Node.js implementation of the UNIX cat utility",
+  "main": "step3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "step1": "node step1.js",
+    "step2": "node step2.js",
+    "step3": "node step3.js"
+  },
+  "keywords": [
+    "node",
+    "cli",
+    "cat",
+    "file",
+    "utility"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
